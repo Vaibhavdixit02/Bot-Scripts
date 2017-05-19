@@ -1,5 +1,5 @@
-var CLIENT_ID = '7f54a325826241b0ae14ffb674e71733';
-var CLIENT_SECRET = '640d94a7145d4d339cc82d4ebedeac2f';
+var CLIENT_ID = '---';
+var CLIENT_SECRET = '---';
 
 function doGet(){
   var firstRun = run();

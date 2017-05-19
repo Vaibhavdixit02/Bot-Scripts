@@ -1,5 +1,5 @@
-var CONSUMER_KEY = 'MVrVck1hxOfkan8Hq97OWJ1rQ';
-var CONSUMER_SECRET = 'h7bQjjmICBw5UN7nthpUR6EeoNNyuxildUvDWesA9s7GcpQ6Qg';
+var CONSUMER_KEY = '---';
+var CONSUMER_SECRET = '---';
 
 /**
  * Authorizes and makes a request to the Twitter API.
